@@ -1,0 +1,15 @@
+{
+  "id": "GReminder",
+  "name": "GReminder",
+  "version": "1.0.0",
+  "description": "Google Reminder",
+  "main": "index.js",
+  "author": "Arvid Dumon <deveroalex@gmail.com>",
+  "license": "free",
+  "repository": "https://github.com/alexdevero/franz-instagram-recipe",
+  "config": {
+    "hasNotificationSound": false,
+    "hasIndirectMessages": true,
+    "serviceURL": "https://assistant.google.com/reminders/mainview"
+  }
+}

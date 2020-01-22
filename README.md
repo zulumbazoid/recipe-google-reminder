@@ -1,2 +1,3 @@
-# Franz-Google-Reminder-recipe
+# Franz Google Reminder recipe
+
 A Franz recipe for Google Reminder.
