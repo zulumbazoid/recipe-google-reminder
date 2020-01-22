@@ -8,8 +8,8 @@
   "license": "free",
   "repository": "https://github.com/zulumbazoid/recipe-google-reminder",
   "config": {
-    "hasNotificationSound": false,
-    "hasIndirectMessages": true,
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
     "serviceURL": "https://assistant.google.com/reminders/mainview"
   }
 }
