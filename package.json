@@ -1,11 +1,11 @@
 {
   "id": "GReminder",
   "name": "GReminder",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "Google Reminder",
   "main": "index.js",
-  "author": "Arvid Dumon <deveroalex@gmail.com>",
-  "license": "free",
+  "author": "Arvid Dumon",
+  "license": "MIT",
   "repository": "https://github.com/zulumbazoid/recipe-google-reminder",
   "config": {
     "hasNotificationSound": true,
