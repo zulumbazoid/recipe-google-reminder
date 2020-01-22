@@ -6,7 +6,7 @@
   "main": "index.js",
   "author": "Arvid Dumon <deveroalex@gmail.com>",
   "license": "free",
-  "repository": "https://github.com/alexdevero/franz-instagram-recipe",
+  "repository": "https://github.com/zulumbazoid/recipe-google-reminder",
   "config": {
     "hasNotificationSound": false,
     "hasIndirectMessages": true,
